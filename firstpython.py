@@ -6,5 +6,8 @@
 - Behavioural Fraud: In this method it takes user behaviour into account. Any activity that is different from the legitimate user behaviour will be considered as a possible fraud. It does not search for specific patterns
 ## Dataset: This dataset is highly imbalance. Only 0.172% of the transaction are fraud.
 ## Modelling:
-- Supervised Learning"""
+- Supervised Learning
+## Other Techniques:
+- Undersampling
+"""
 
