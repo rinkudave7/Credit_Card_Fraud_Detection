@@ -7,5 +7,11 @@ The Credit Card Fraud Detection Problem includes modeling past credit card trans
 - There is no missing value in the dataset.
 ## Description
 - Credit Card Fraud Detection is a typical example of classification.
-This dataset is taken from kaggle, it can be found [here]([url](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
-).
+This dataset is taken from kaggle, it can be found here.
+## Methods Used
+- Data Visualization
+- Supervised Learning
+- Sampling
+## Technologies
+- Python
+- Jupyter Notebook
