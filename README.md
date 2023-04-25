@@ -14,4 +14,4 @@ This dataset is taken from kaggle, it can be found [here](https://www.kaggle.com
 - Sampling
 ## Technologies
 - Python
-- Jupyter Notebook
+- Jupyter Notebook 
